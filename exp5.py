@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Import data
-data = pd.read_csv('C:\AIML\database.csv')
+data = pd.read_csv('C:\Users\lenovo\OneDrive\Desktop')
 
 # Display basic information
 print("Dataset info:")
