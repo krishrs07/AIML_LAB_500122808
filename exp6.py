@@ -3,7 +3,7 @@ from sklearn.impute import SimpleImputer
 import numpy as np
 
 # Import data
-data = pd.read_csv('C:\AIML\database.csv')
+data = pd.read_csv('C:\Users\lenovo\OneDrive\Desktop')
 
 # Handling Missing Values
 # Using SimpleImputer to replace missing values with the median
