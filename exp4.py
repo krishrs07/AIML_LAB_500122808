@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Import data
-data = pd.read_csv('C:\AIML\database.csv')
+data = pd.read_csv('C:\Users\lenovo\OneDrive\Desktop')
 
 # Show details of the dataset
 print("Number of rows and columns: ", data.shape)
